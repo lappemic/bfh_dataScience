@@ -1,2 +1,4 @@
-# bfh_dataScience
-Uploading Data Science notebooks from a bfh course in spring semester 2021
+# bfh Data Science course
+This course was taught at the bfh in spring semester 2021.
+
+It is uploaded here to keep it alway available. :)
